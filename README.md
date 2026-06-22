@@ -44,6 +44,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Laravel UI](https://github.com/laravel/ui) – Legacy UI scaffolding.
 - [Laravel Zero](https://laravel-zero.com/) – Build console applications using Laravel components.
 - [Wave](https://github.com/thedevdojo/wave) – SaaS starter kit built on Laravel.
+- [UnfoldCMS](https://github.com/hpakdaman/unfoldcms) – Self-hosted CMS built on Laravel 12 + React 19 + shadcn/ui + Tailwind v4, with REST API v1 (42 endpoints), HMAC-signed webhooks, and headless mode.
 
 ## Authentication & Authorization
 
